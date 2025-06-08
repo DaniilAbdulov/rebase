@@ -1,1 +1,1 @@
-const str2 = `this is index3js from main`;
+const str2 = `this is`;
