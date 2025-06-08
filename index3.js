@@ -1,1 +1,1 @@
-const str2 = `this is is`;
+const str2 = `this is is is2`;
